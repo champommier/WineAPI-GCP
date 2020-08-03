@@ -1,4214 +1,4214 @@
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Alsace\",
-  \"name\": \"Alsace grand cru\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Alsace\",
+  \"Name\": \"Alsace grand cru\",
+  \"Color\": \"White\"
 }"
 
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Alsace\",
-  \"name\": \"Vin d'Alsace\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Alsace\",
+  \"Name\": \"Vin d'Alsace\",
+  \"Color\": \"Red\"
 }"
 
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Alsace\",
-  \"name\": \"Alsace\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Alsace\",
+  \"Name\": \"Alsace\",
+  \"Color\": \"Red\"
 }"
 
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Alsace\",
-  \"name\": \"Alsace ou vin d'Alsace\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Alsace\",
+  \"Name\": \"Alsace ou vin d'Alsace\",
+  \"Color\": \"Pink\"
 }"
 
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Alsace\",
-  \"name\": \"Alsace ou vin d'Alsace\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Alsace\",
+  \"Name\": \"Alsace ou vin d'Alsace\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Alsace\",
-  \"name\": \"Crémant d'Alsace\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Alsace\",
+  \"Name\": \"Crémant d'Alsace\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Alsace\",
-  \"name\": \"Crémant d'Alsace\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Alsace\",
+  \"Name\": \"Crémant d'Alsace\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Beaujolais\",
-  \"name\": \"Beaujolais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Beaujolais\",
+  \"Name\": \"Beaujolais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Beaujolais\",
-  \"name\": \"Beaujolais\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Beaujolais\",
+  \"Name\": \"Beaujolais\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Beaujolais\",
-  \"name\": \"Beaujolais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Beaujolais\",
+  \"Name\": \"Beaujolais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Beaujolais\",
-  \"name\": \"Beaujolais-villages\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Beaujolais\",
+  \"Name\": \"Beaujolais-villages\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Beaujolais\",
-  \"name\": \"Beaujolais-villages\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Beaujolais\",
+  \"Name\": \"Beaujolais-villages\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Beaujolais\",
-  \"name\": \"Beaujolais-villages\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Beaujolais\",
+  \"Name\": \"Beaujolais-villages\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Beaujolais\",
-  \"name\": \"Brouilly\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Beaujolais\",
+  \"Name\": \"Brouilly\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Beaujolais\",
-  \"name\": \"Chénas\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Beaujolais\",
+  \"Name\": \"Chénas\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Beaujolais\",
-  \"name\": \"Chiroubles\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Beaujolais\",
+  \"Name\": \"Chiroubles\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Beaujolais\",
-  \"name\": \"Côte-de-brouilly\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Beaujolais\",
+  \"Name\": \"Côte-de-brouilly\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Beaujolais\",
-  \"name\": \"Fleurie\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Beaujolais\",
+  \"Name\": \"Fleurie\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Beaujolais\",
-  \"name\": \"Juliénas\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Beaujolais\",
+  \"Name\": \"Juliénas\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Beaujolais\",
-  \"name\": \"Juliénas\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Beaujolais\",
+  \"Name\": \"Juliénas\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Beaujolais\",
-  \"name\": \"Morgon\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Beaujolais\",
+  \"Name\": \"Morgon\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Beaujolais\",
-  \"name\": \"Moulin-à-vent\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Beaujolais\",
+  \"Name\": \"Moulin-à-vent\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Beaujolais\",
-  \"name\": \"Régnié\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Beaujolais\",
+  \"Name\": \"Régnié\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Beaujolais\",
-  \"name\": \"Saint-amour\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Beaujolais\",
+  \"Name\": \"Saint-amour\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Barsac\",
-  \"subArea\": \"Sauternais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Barsac\",
+  \"SubArea\": \"Sauternais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Blaye\",
-  \"subArea\": \"Blayais et Bourgeais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Blaye\",
+  \"SubArea\": \"Blayais et Bourgeais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Bordeaux\",
-  \"color\": \"Clairet\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Bordeaux\",
+  \"Color\": \"Clairet\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Bordeaux\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Bordeaux\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Bordeaux\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Bordeaux\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Bordeaux\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Bordeaux\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Bordeaux supérieur\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Bordeaux supérieur\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Bordeaux supérieur\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Bordeaux supérieur\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Cadillac\",
-  \"subArea\": \"Entre-deux-Mers\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Cadillac\",
+  \"SubArea\": \"Entre-deux-Mers\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Canon-fronsac\",
-  \"subArea\": \"Libournais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Canon-fronsac\",
+  \"SubArea\": \"Libournais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Cérons\",
-  \"subArea\": \"Graves\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Cérons\",
+  \"SubArea\": \"Graves\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Côtes-de-blaye\",
-  \"subArea\": \"Blayais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Côtes-de-blaye\",
+  \"SubArea\": \"Blayais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Côtes-de-blaye\",
-  \"subArea\": \"Bourgeais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Côtes-de-blaye\",
+  \"SubArea\": \"Bourgeais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Côtes-de-Bordeaux\",
-  \"subArea\": \"Blayais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Côtes-de-Bordeaux\",
+  \"SubArea\": \"Blayais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Côtes-de-Bordeaux\",
-  \"subArea\": \"Bourgeais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Côtes-de-Bordeaux\",
+  \"SubArea\": \"Bourgeais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Côtes-de-Bordeaux\",
-  \"subArea\": \"Entre-deux-Mers\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Côtes-de-Bordeaux\",
+  \"SubArea\": \"Entre-deux-Mers\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Côtes-de-Bordeaux\",
-  \"subArea\": \"Libournais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Côtes-de-Bordeaux\",
+  \"SubArea\": \"Libournais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Côtes-de-Bordeaux-saint-macaire\",
-  \"subArea\": \"Entre-deux-Mers\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Côtes-de-Bordeaux-saint-macaire\",
+  \"SubArea\": \"Entre-deux-Mers\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Côtes-de-bourg\",
-  \"subArea\": \"Bourgeais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Côtes-de-bourg\",
+  \"SubArea\": \"Bourgeais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Bourg\",
-  \"subArea\": \"Bourgeais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Bourg\",
+  \"SubArea\": \"Bourgeais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Bourgeais\",
-  \"subArea\": \"Bourgeais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Bourgeais\",
+  \"SubArea\": \"Bourgeais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Côtes-de-bourg\",
-  \"subArea\": \"Blayais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Côtes-de-bourg\",
+  \"SubArea\": \"Blayais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Bourg\",
-  \"subArea\": \"Blayais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Bourg\",
+  \"SubArea\": \"Blayais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Bourgeais\",
-  \"subArea\": \"Blayais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Bourgeais\",
+  \"SubArea\": \"Blayais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Côtes-de-bourg\",
-  \"subArea\": \"Bourgeais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Côtes-de-bourg\",
+  \"SubArea\": \"Bourgeais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Bourg\",
-  \"subArea\": \"Bourgeais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Bourg\",
+  \"SubArea\": \"Bourgeais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Bourgeais\",
-  \"subArea\": \"Bourgeais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Bourgeais\",
+  \"SubArea\": \"Bourgeais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Côtes-de-bourg\",
-  \"subArea\": \"Blayais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Côtes-de-bourg\",
+  \"SubArea\": \"Blayais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Bourg\",
-  \"subArea\": \"Blayais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Bourg\",
+  \"SubArea\": \"Blayais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Bourgeais\",
-  \"subArea\": \"Blayais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Bourgeais\",
+  \"SubArea\": \"Blayais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Crémant de Bordeaux\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Crémant de Bordeaux\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Crémant de Bordeaux\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Crémant de Bordeaux\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Entre-deux-mers\",
-  \"subArea\": \"Entre-deux-Mers\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Entre-deux-mers\",
+  \"SubArea\": \"Entre-deux-Mers\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Fronsac\",
-  \"subArea\": \"Libournais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Fronsac\",
+  \"SubArea\": \"Libournais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Graves\",
-  \"subArea\": \"Graves\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Graves\",
+  \"SubArea\": \"Graves\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Graves\",
-  \"subArea\": \"Graves\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Graves\",
+  \"SubArea\": \"Graves\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Graves-de-vayres\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Graves-de-vayres\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Graves-de-vayres\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Graves-de-vayres\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Graves-supérieures\",
-  \"subArea\": \"Graves\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Graves-supérieures\",
+  \"SubArea\": \"Graves\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Haut-médoc\",
-  \"subArea\": \"Médoc\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Haut-médoc\",
+  \"SubArea\": \"Médoc\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Lalande-de-pomerol\",
-  \"subArea\": \"Libournais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Lalande-de-pomerol\",
+  \"SubArea\": \"Libournais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Listrac-médoc\",
-  \"subArea\": \"Médoc\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Listrac-médoc\",
+  \"SubArea\": \"Médoc\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Loupiac\",
-  \"subArea\": \"Entre-deux-Mers\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Loupiac\",
+  \"SubArea\": \"Entre-deux-Mers\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Lussac-saint-émilion\",
-  \"subArea\": \"Libournais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Lussac-saint-émilion\",
+  \"SubArea\": \"Libournais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Margaux\",
-  \"subArea\": \"Médoc\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Margaux\",
+  \"SubArea\": \"Médoc\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Médoc\",
-  \"subArea\": \"Médoc\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Médoc\",
+  \"SubArea\": \"Médoc\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Montagne-saint-émilion\",
-  \"subArea\": \"Libournais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Montagne-saint-émilion\",
+  \"SubArea\": \"Libournais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Moulis\",
-  \"subArea\": \"Médoc\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Moulis\",
+  \"SubArea\": \"Médoc\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Moulis-en-médoc\",
-  \"subArea\": \"Médoc\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Moulis-en-médoc\",
+  \"SubArea\": \"Médoc\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Pauillac\",
-  \"subArea\": \"Médoc\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Pauillac\",
+  \"SubArea\": \"Médoc\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Pessac-léognan\",
-  \"subArea\": \"Graves\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Pessac-léognan\",
+  \"SubArea\": \"Graves\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Pessac-léognan\",
-  \"subArea\": \"Graves\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Pessac-léognan\",
+  \"SubArea\": \"Graves\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Pomerol\",
-  \"subArea\": \"Libournais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Pomerol\",
+  \"SubArea\": \"Libournais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Premières-côtes-de-Bordeaux\",
-  \"subArea\": \"Entre-deux-Mers\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Premières-côtes-de-Bordeaux\",
+  \"SubArea\": \"Entre-deux-Mers\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Puisseguin-saint-émilion\",
-  \"subArea\": \"Libournais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Puisseguin-saint-émilion\",
+  \"SubArea\": \"Libournais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Saint-émilion\",
-  \"subArea\": \"Libournais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Saint-émilion\",
+  \"SubArea\": \"Libournais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Saint-émilion grand cru\",
-  \"subArea\": \"Libournais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Saint-émilion grand cru\",
+  \"SubArea\": \"Libournais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Saint-estèphe\",
-  \"subArea\": \"Médoc\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Saint-estèphe\",
+  \"SubArea\": \"Médoc\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Saint-georges-saint-émilion\",
-  \"subArea\": \"Libournais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Saint-georges-saint-émilion\",
+  \"SubArea\": \"Libournais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Saint-julien\",
-  \"subArea\": \"Médoc\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Saint-julien\",
+  \"SubArea\": \"Médoc\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Sainte-croix-du-mont\",
-  \"subArea\": \"Entre-deux-Mers\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Sainte-croix-du-mont\",
+  \"SubArea\": \"Entre-deux-Mers\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Sainte-foy-Bordeaux\",
-  \"subArea\": \"Entre-deux-Mers\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Sainte-foy-Bordeaux\",
+  \"SubArea\": \"Entre-deux-Mers\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Sainte-foy-Bordeaux\",
-  \"subArea\": \"Entre-deux-Mers\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Sainte-foy-Bordeaux\",
+  \"SubArea\": \"Entre-deux-Mers\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bordeaux\",
-  \"name\": \"Sauternes\",
-  \"subArea\": \"Sauternais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bordeaux\",
+  \"Name\": \"Sauternes\",
+  \"SubArea\": \"Sauternais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Aloxe-corton\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Aloxe-corton\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Aloxe-corton\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Aloxe-corton\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Auxey-duresses\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Auxey-duresses\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Auxey-duresses\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Auxey-duresses\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Bâtard-montrachet\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Bâtard-montrachet\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Beaune\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Beaune\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Beaune\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Beaune\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Bienvenues-bâtard-montrachet\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Bienvenues-bâtard-montrachet\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Blagny\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Blagny\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Bonnes-mares\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Bonnes-mares\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Bourgogne\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Bourgogne\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Bourgogne\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Bourgogne\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Bourgogne\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Bourgogne\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Bourgogne aligoté\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Bourgogne aligoté\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Bourgogne mousseux\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Bourgogne mousseux\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Bourgogne passe-tout-grains\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Bourgogne passe-tout-grains\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Bourgogne passe-tout-grains\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Bourgogne passe-tout-grains\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Bouzeron\",
-  \"subArea\": \"Côte chalonnaise\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Bouzeron\",
+  \"SubArea\": \"Côte chalonnaise\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Chablis\",
-  \"subArea\": \"Basse-Bourgogne\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Chablis\",
+  \"SubArea\": \"Basse-Bourgogne\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Chablis grand cru\",
-  \"subArea\": \"Basse-Bourgogne\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Chablis grand cru\",
+  \"SubArea\": \"Basse-Bourgogne\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Chambertin\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Chambertin\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Chambertin-clos-de-bèze\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Chambertin-clos-de-bèze\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Chambolle-musigny\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Chambolle-musigny\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Chapelle-chambertin\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Chapelle-chambertin\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Charlemagne\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Charlemagne\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Charmes-chambertin\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Charmes-chambertin\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Chassagne-montrachet\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Chassagne-montrachet\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Chassagne-montrachet\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Chassagne-montrachet\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Chevalier-montrachet\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Chevalier-montrachet\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Chorey-lès-beaune\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Chorey-lès-beaune\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Chorey-lès-beaune\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Chorey-lès-beaune\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Clos-de-la-roche\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Clos-de-la-roche\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Clos-de-tart\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Clos-de-tart\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Clos-vougeot\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Clos-vougeot\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Clos-de-vougeot\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Clos-de-vougeot\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Clos-des-lambrays\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Clos-des-lambrays\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Clos-saint-denis\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Clos-saint-denis\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Corton\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Corton\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Corton\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Corton\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Corton-charlemagne\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Corton-charlemagne\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Côte-de-beaune\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Côte-de-beaune\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Côte-de-beaune\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Côte-de-beaune\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Côte-de-beaune-villages\",
-  \"subArea\": \"côte de Beaune\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Côte-de-beaune-villages\",
+  \"SubArea\": \"côte de Beaune\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Côte-de-nuits-villages\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Côte-de-nuits-villages\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Côte-de-nuits-villages\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Côte-de-nuits-villages\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Coteaux-bourguignons\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Coteaux-bourguignons\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Coteaux-bourguignons\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Coteaux-bourguignons\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Coteaux-bourguignons\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Coteaux-bourguignons\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Crémant de Bourgogne\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Crémant de Bourgogne\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Crémant de Bourgogne\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Crémant de Bourgogne\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Criots-bâtard-montrachet\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Criots-bâtard-montrachet\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Echezeaux\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Echezeaux\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Fixin\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Fixin\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Fixin\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Fixin\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Gevrey-chambertin\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Gevrey-chambertin\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Givry\",
-  \"subArea\": \"côte chalonnaise\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Givry\",
+  \"SubArea\": \"côte chalonnaise\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Givry\",
-  \"subArea\": \"côte chalonnaise\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Givry\",
+  \"SubArea\": \"côte chalonnaise\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Grands-échezeaux\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Grands-échezeaux\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Griotte-chambertin\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Griotte-chambertin\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Irancy\",
-  \"subArea\": \"Basse-Bourgogne\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Irancy\",
+  \"SubArea\": \"Basse-Bourgogne\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"La-grande-rue\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"La-grande-rue\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"La-romanée\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"La-romanée\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"La-tâche\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"La-tâche\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Ladoix\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Ladoix\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Ladoix\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Ladoix\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Latricières-chambertin\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Latricières-chambertin\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Mâcon\",
-  \"subArea\": \"Mâconnais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Mâcon\",
+  \"SubArea\": \"Mâconnais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Mâcon\",
-  \"subArea\": \"Mâconnais\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Mâcon\",
+  \"SubArea\": \"Mâconnais\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Mâcon\",
-  \"subArea\": \"Mâconnais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Mâcon\",
+  \"SubArea\": \"Mâconnais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Maranges\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Maranges\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Maranges\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Maranges\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Marsannay\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Marsannay\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Marsannay\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Marsannay\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Marsannay\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Marsannay\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Mazis-chambertin\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Mazis-chambertin\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Mazoyères-chambertin\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Mazoyères-chambertin\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Mercurey\",
-  \"subArea\": \"Côte chalonnaise\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Mercurey\",
+  \"SubArea\": \"Côte chalonnaise\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Mercurey\",
-  \"subArea\": \"Côte chalonnaise\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Mercurey\",
+  \"SubArea\": \"Côte chalonnaise\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Meursault\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Meursault\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Meursault\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Meursault\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Montagny\",
-  \"subArea\": \"Côte chalonnaise\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Montagny\",
+  \"SubArea\": \"Côte chalonnaise\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Monthélie\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Monthélie\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Monthélie\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Monthélie\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Montrachet\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Montrachet\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Morey-saint-denis\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Morey-saint-denis\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Morey-saint-denis\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Morey-saint-denis\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Musigny\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Musigny\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Musigny\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Musigny\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Nuits-saint-georges\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Nuits-saint-georges\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Nuits-saint-georges\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Nuits-saint-georges\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Pernand-vergelesses\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Pernand-vergelesses\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Pernand-vergelesses\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Pernand-vergelesses\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Petit-chablis\",
-  \"subArea\": \"Basse-Bourgogne\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Petit-chablis\",
+  \"SubArea\": \"Basse-Bourgogne\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Pommard\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Pommard\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Pouilly-fuissé\",
-  \"subArea\": \"Mâconnais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Pouilly-fuissé\",
+  \"SubArea\": \"Mâconnais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Pouilly-loché\",
-  \"subArea\": \"Mâconnais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Pouilly-loché\",
+  \"SubArea\": \"Mâconnais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Pouilly-vinzelles\",
-  \"subArea\": \"Mâconnais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Pouilly-vinzelles\",
+  \"SubArea\": \"Mâconnais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Puligny-montrachet\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Puligny-montrachet\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Puligny-montrachet\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Puligny-montrachet\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Richebourg\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Richebourg\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Romanée-conti\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Romanée-conti\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Romanée-saint-vivant\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Romanée-saint-vivant\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Ruchottes-chambertin\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Ruchottes-chambertin\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Rully\",
-  \"subArea\": \"Côte chalonnaise\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Rully\",
+  \"SubArea\": \"Côte chalonnaise\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Rully\",
-  \"subArea\": \"Côte chalonnaise\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Rully\",
+  \"SubArea\": \"Côte chalonnaise\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Saint-aubin\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Saint-aubin\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Saint-aubin\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Saint-aubin\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Saint-bris\",
-  \"subArea\": \"Basse-Bourgogne\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Saint-bris\",
+  \"SubArea\": \"Basse-Bourgogne\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Saint-romain\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Saint-romain\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Saint-romain\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Saint-romain\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Saint-véran\",
-  \"subArea\": \"Mâconnais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Saint-véran\",
+  \"SubArea\": \"Mâconnais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Santenay\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Santenay\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Santenay\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Santenay\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Savigny-lès-beaune\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Savigny-lès-beaune\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Savigny-lès-beaune\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Savigny-lès-beaune\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Viré-clessé\",
-  \"subArea\": \"Mâconnais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Viré-clessé\",
+  \"SubArea\": \"Mâconnais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Volnay\",
-  \"subArea\": \"Côte de Beaune\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Volnay\",
+  \"SubArea\": \"Côte de Beaune\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Vosne-romanée\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Vosne-romanée\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Vougeot\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Vougeot\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bourgogne\",
-  \"name\": \"Vougeot\",
-  \"subArea\": \"Côte de Nuits\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bourgogne\",
+  \"Name\": \"Vougeot\",
+  \"SubArea\": \"Côte de Nuits\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bugey\",
-  \"name\": \"Bugey\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Bugey\",
+  \"Name\": \"Bugey\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bugey\",
-  \"name\": \"Bugey\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bugey\",
+  \"Name\": \"Bugey\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Bugey\",
-  \"name\": \"Roussette du Bugey\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Bugey\",
+  \"Name\": \"Roussette du Bugey\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Champagne\",
-  \"name\": \"Champagne\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Champagne\",
+  \"Name\": \"Champagne\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Champagne\",
-  \"name\": \"Champagne\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Champagne\",
+  \"Name\": \"Champagne\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Champagne\",
-  \"name\": \"Coteaux-champenois\",
-  \"subArea\": \"Côte des Bar\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Champagne\",
+  \"Name\": \"Coteaux-champenois\",
+  \"SubArea\": \"Côte des Bar\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Champagne\",
-  \"name\": \"Coteaux-champenois\",
-  \"subArea\": \"Côte des Bar\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Champagne\",
+  \"Name\": \"Coteaux-champenois\",
+  \"SubArea\": \"Côte des Bar\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Champagne\",
-  \"name\": \"Coteaux-champenois\",
-  \"subArea\": \"Côte des Bar\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Champagne\",
+  \"Name\": \"Coteaux-champenois\",
+  \"SubArea\": \"Côte des Bar\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Champagne\",
-  \"name\": \"Coteaux-champenois\",
-  \"subArea\": \"Côte des Blancs\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Champagne\",
+  \"Name\": \"Coteaux-champenois\",
+  \"SubArea\": \"Côte des Blancs\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Champagne\",
-  \"name\": \"Coteaux-champenois\",
-  \"subArea\": \"Côte des Blancs\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Champagne\",
+  \"Name\": \"Coteaux-champenois\",
+  \"SubArea\": \"Côte des Blancs\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Champagne\",
-  \"name\": \"Coteaux-champenois\",
-  \"subArea\": \"Côte des Blancs\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Champagne\",
+  \"Name\": \"Coteaux-champenois\",
+  \"SubArea\": \"Côte des Blancs\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Champagne\",
-  \"name\": \"Coteaux-champenois\",
-  \"subArea\": \"Montagne de Reims\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Champagne\",
+  \"Name\": \"Coteaux-champenois\",
+  \"SubArea\": \"Montagne de Reims\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Champagne\",
-  \"name\": \"Coteaux-champenois\",
-  \"subArea\": \"Montagne de Reims\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Champagne\",
+  \"Name\": \"Coteaux-champenois\",
+  \"SubArea\": \"Montagne de Reims\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Champagne\",
-  \"name\": \"Coteaux-champenois\",
-  \"subArea\": \"Montagne de Reims\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Champagne\",
+  \"Name\": \"Coteaux-champenois\",
+  \"SubArea\": \"Montagne de Reims\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Champagne\",
-  \"name\": \"Coteaux-champenois\",
-  \"subArea\": \"Vallée de la Marne\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Champagne\",
+  \"Name\": \"Coteaux-champenois\",
+  \"SubArea\": \"Vallée de la Marne\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Champagne\",
-  \"name\": \"Coteaux-champenois\",
-  \"subArea\": \"Vallée de la Marne\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Champagne\",
+  \"Name\": \"Coteaux-champenois\",
+  \"SubArea\": \"Vallée de la Marne\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Champagne\",
-  \"name\": \"Coteaux-champenois\",
-  \"subArea\": \"Vallée de la Marne\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Champagne\",
+  \"Name\": \"Coteaux-champenois\",
+  \"SubArea\": \"Vallée de la Marne\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Champagne\",
-  \"name\": \"Rosé des Riceys\",
-  \"subArea\": \"Côte des Bars\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Champagne\",
+  \"Name\": \"Rosé des Riceys\",
+  \"SubArea\": \"Côte des Bars\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Corse\",
-  \"name\": \"Ajaccio\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Corse\",
+  \"Name\": \"Ajaccio\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Corse\",
-  \"name\": \"Ajaccio\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Corse\",
+  \"Name\": \"Ajaccio\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Corse\",
-  \"name\": \"Ajaccio\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Corse\",
+  \"Name\": \"Ajaccio\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Corse\",
-  \"name\": \"Corse ou vin de Corse\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Corse\",
+  \"Name\": \"Corse ou vin de Corse\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Corse\",
-  \"name\": \"Corse ou vin de Corse\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Corse\",
+  \"Name\": \"Corse ou vin de Corse\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Corse\",
-  \"name\": \"Corse ou vin de Corse\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Corse\",
+  \"Name\": \"Corse ou vin de Corse\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Corse\",
-  \"name\": \"Muscat du Cap-Corse\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Corse\",
+  \"Name\": \"Muscat du Cap-Corse\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Corse\",
-  \"name\": \"Patrimonio\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Corse\",
+  \"Name\": \"Patrimonio\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Corse\",
-  \"name\": \"Patrimonio\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Corse\",
+  \"Name\": \"Patrimonio\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Jura\",
-  \"name\": \"Arbois\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Jura\",
+  \"Name\": \"Arbois\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Jura\",
-  \"name\": \"Arbois\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Jura\",
+  \"Name\": \"Arbois\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Jura\",
-  \"name\": \"Côtes-du-jura\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Jura\",
+  \"Name\": \"Côtes-du-jura\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Jura\",
-  \"name\": \"Côtes-du-jura\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Jura\",
+  \"Name\": \"Côtes-du-jura\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Jura\",
-  \"name\": \"Côtes-du-jura\",
-  \"color\": \"Straw\"
+  \"Country\": \"France\",
+  \"Area\": \"Jura\",
+  \"Name\": \"Côtes-du-jura\",
+  \"Color\": \"Straw\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Jura\",
-  \"name\": \"Côtes-du-jura\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Jura\",
+  \"Name\": \"Côtes-du-jura\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Jura\",
-  \"name\": \"Côtes-du-jura\",
-  \"color\": \"Yellow\"
+  \"Country\": \"France\",
+  \"Area\": \"Jura\",
+  \"Name\": \"Côtes-du-jura\",
+  \"Color\": \"Yellow\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Jura\",
-  \"name\": \"Crémant du Jura\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Jura\",
+  \"Name\": \"Crémant du Jura\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Jura\",
-  \"name\": \"L'étoile\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Jura\",
+  \"Name\": \"L'étoile\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Cabardès\",
-  \"subArea\": \"Coteaux de l'Aude\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Cabardès\",
+  \"SubArea\": \"Coteaux de l'Aude\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Cabardès\",
-  \"subArea\": \"Coteaux de l'Aude\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Cabardès\",
+  \"SubArea\": \"Coteaux de l'Aude\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Clairette du Languedoc\",
-  \"subArea\": \"Coteaux du Languedoc\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Clairette du Languedoc\",
+  \"SubArea\": \"Coteaux du Languedoc\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Corbières\",
-  \"subArea\": \"Coteaux de l'Aude\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Corbières\",
+  \"SubArea\": \"Coteaux de l'Aude\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Corbières\",
-  \"subArea\": \"Coteaux de l'Aude\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Corbières\",
+  \"SubArea\": \"Coteaux de l'Aude\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Corbières\",
-  \"subArea\": \"Coteaux de l'Aude\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Corbières\",
+  \"SubArea\": \"Coteaux de l'Aude\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Corbières-boutenac\",
-  \"subArea\": \"Coteaux de l'Aude (Corbières)\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Corbières-boutenac\",
+  \"SubArea\": \"Coteaux de l'Aude (Corbières)\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Crémant de Limoux\",
-  \"subArea\": \"Coteaux de l'Aude (Limouxin)\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Crémant de Limoux\",
+  \"SubArea\": \"Coteaux de l'Aude (Limouxin)\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Faugères\",
-  \"subArea\": \"Coteaux du Languedoc\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Faugères\",
+  \"SubArea\": \"Coteaux du Languedoc\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Faugères\",
-  \"subArea\": \"Coteaux du Languedoc\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Faugères\",
+  \"SubArea\": \"Coteaux du Languedoc\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Faugères\",
-  \"subArea\": \"Coteaux du Languedoc\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Faugères\",
+  \"SubArea\": \"Coteaux du Languedoc\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Fitou\",
-  \"subArea\": \"Coteaux de l'Aude (Corbières)\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Fitou\",
+  \"SubArea\": \"Coteaux de l'Aude (Corbières)\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Languedoc\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Languedoc\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Languedoc\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Languedoc\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Languedoc\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Languedoc\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Limoux\",
-  \"subArea\": \"Coteaux de l'Aude\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Limoux\",
+  \"SubArea\": \"Coteaux de l'Aude\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Limoux\",
-  \"subArea\": \"Coteaux de l'Aude\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Limoux\",
+  \"SubArea\": \"Coteaux de l'Aude\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Malepère\",
-  \"subArea\": \"Coteaux de l'Aude (Razès)\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Malepère\",
+  \"SubArea\": \"Coteaux de l'Aude (Razès)\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Malepère\",
-  \"subArea\": \"Coteaux de l'Aude (Razès)\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Malepère\",
+  \"SubArea\": \"Coteaux de l'Aude (Razès)\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Minervois\",
-  \"subArea\": \"Coteaux de l'Aude\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Minervois\",
+  \"SubArea\": \"Coteaux de l'Aude\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Minervois\",
-  \"subArea\": \"Coteaux de l'Aude\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Minervois\",
+  \"SubArea\": \"Coteaux de l'Aude\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Minervois\",
-  \"subArea\": \"Coteaux de l'Aude\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Minervois\",
+  \"SubArea\": \"Coteaux de l'Aude\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Minervois-la-livinière\",
-  \"subArea\": \"Petit Causse\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Minervois-la-livinière\",
+  \"SubArea\": \"Petit Causse\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Muscat de Frontignan\",
-  \"subArea\": \"Plaine du Languedoc\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Muscat de Frontignan\",
+  \"SubArea\": \"Plaine du Languedoc\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Vin de Frontignan\",
-  \"subArea\": \"Plaine du Languedoc\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Vin de Frontignan\",
+  \"SubArea\": \"Plaine du Languedoc\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Muscat de Lunel\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Muscat de Lunel\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Muscat de Mireval\",
-  \"subArea\": \"Plaine du Languedoc\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Muscat de Mireval\",
+  \"SubArea\": \"Plaine du Languedoc\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Muscat de Saint-Jean-de-Minervois\",
-  \"subArea\": \"Minervois\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Muscat de Saint-Jean-de-Minervois\",
+  \"SubArea\": \"Minervois\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Saint-chinian\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Saint-chinian\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Saint-chinian\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Saint-chinian\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc\",
-  \"name\": \"Saint-chinian\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc\",
+  \"Name\": \"Saint-chinian\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc-Roussillon\",
-  \"name\": \"Banyuls\",
-  \"subArea\": \"Roussillon\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc-Roussillon\",
+  \"Name\": \"Banyuls\",
+  \"SubArea\": \"Roussillon\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Languedoc-Roussillon\",
-  \"name\": \"Banyuls grand cru\",
-  \"subArea\": \"Roussillon\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Languedoc-Roussillon\",
+  \"Name\": \"Banyuls grand cru\",
+  \"SubArea\": \"Roussillon\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Lorraine\",
-  \"name\": \"Côtes-de-toul\",
-  \"subArea\": \"Côtes de Meuse\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Lorraine\",
+  \"Name\": \"Côtes-de-toul\",
+  \"SubArea\": \"Côtes de Meuse\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Lorraine\",
-  \"name\": \"Côtes-de-toul\",
-  \"subArea\": \"Côtes de Meuse\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Lorraine\",
+  \"Name\": \"Côtes-de-toul\",
+  \"SubArea\": \"Côtes de Meuse\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Lorraine\",
-  \"name\": \"Moselle\",
-  \"subArea\": \"Pays messin\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Lorraine\",
+  \"Name\": \"Moselle\",
+  \"SubArea\": \"Pays messin\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Lorraine\",
-  \"name\": \"Moselle\",
-  \"subArea\": \"Pays messin\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Lorraine\",
+  \"Name\": \"Moselle\",
+  \"SubArea\": \"Pays messin\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Lorraine\",
-  \"name\": \"Moselle\",
-  \"subArea\": \"Pays messin\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Lorraine\",
+  \"Name\": \"Moselle\",
+  \"SubArea\": \"Pays messin\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Lorraine\",
-  \"name\": \"Moselle\",
-  \"subArea\": \"Val de Seille\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Lorraine\",
+  \"Name\": \"Moselle\",
+  \"SubArea\": \"Val de Seille\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Lorraine\",
-  \"name\": \"Moselle\",
-  \"subArea\": \"Val de Sierck\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Lorraine\",
+  \"Name\": \"Moselle\",
+  \"SubArea\": \"Val de Sierck\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Lorraine\",
-  \"name\": \"Moselle\",
-  \"subArea\": \"Val de Seille\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Lorraine\",
+  \"Name\": \"Moselle\",
+  \"SubArea\": \"Val de Seille\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Lorraine\",
-  \"name\": \"Moselle\",
-  \"subArea\": \"Val de Sierck\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Lorraine\",
+  \"Name\": \"Moselle\",
+  \"SubArea\": \"Val de Sierck\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Lorraine\",
-  \"name\": \"Moselle\",
-  \"subArea\": \"Val de Seille\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Lorraine\",
+  \"Name\": \"Moselle\",
+  \"SubArea\": \"Val de Seille\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Lorraine\",
-  \"name\": \"Moselle\",
-  \"subArea\": \"Val de Sierck\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Lorraine\",
+  \"Name\": \"Moselle\",
+  \"SubArea\": \"Val de Sierck\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Lyonnais\",
-  \"name\": \"Coteaux-du-lyonnais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Lyonnais\",
+  \"Name\": \"Coteaux-du-lyonnais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Lyonnais\",
-  \"name\": \"Coteaux-du-lyonnais\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Lyonnais\",
+  \"Name\": \"Coteaux-du-lyonnais\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Lyonnais\",
-  \"name\": \"Coteaux-du-lyonnais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Lyonnais\",
+  \"Name\": \"Coteaux-du-lyonnais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Bandol\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Bandol\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Bandol\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Bandol\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Bandol\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Bandol\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Vin de Bellet\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Vin de Bellet\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Vin de Bellet\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Vin de Bellet\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Vin de Bellet\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Vin de Bellet\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Bellet\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Bellet\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Bellet\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Bellet\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Bellet\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Bellet\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Cassis\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Cassis\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Cassis\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Cassis\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Cassis\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Cassis\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Coteaux-d'aix-en-provence\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Coteaux-d'aix-en-provence\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Coteaux-d'aix-en-provence\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Coteaux-d'aix-en-provence\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Coteaux-d'aix-en-provence\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Coteaux-d'aix-en-provence\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Coteaux-varois-en-provence\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Coteaux-varois-en-provence\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Côtes-de-provence\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Côtes-de-provence\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Côtes-de-provence\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Côtes-de-provence\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Côtes-de-provence\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Côtes-de-provence\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Les-baux-de-provence\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Les-baux-de-provence\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Les-baux-de-provence\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Les-baux-de-provence\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Palette\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Palette\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Palette\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Palette\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Palette\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Palette\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Pierrevert\",
-  \"subArea\": \"Moyenne Vallée de la Durance\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Pierrevert\",
+  \"SubArea\": \"Moyenne Vallée de la Durance\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Pierrevert\",
-  \"subArea\": \"Moyenne Vallée de la Durance\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Pierrevert\",
+  \"SubArea\": \"Moyenne Vallée de la Durance\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Provence\",
-  \"name\": \"Pierrevert\",
-  \"subArea\": \"Moyenne Vallée de la Durance\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Provence\",
+  \"Name\": \"Pierrevert\",
+  \"SubArea\": \"Moyenne Vallée de la Durance\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Roussillon\",
-  \"name\": \"Collioure\",
-  \"subArea\": \"Côte Vermeille\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Roussillon\",
+  \"Name\": \"Collioure\",
+  \"SubArea\": \"Côte Vermeille\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Roussillon\",
-  \"name\": \"Collioure\",
-  \"subArea\": \"Côte Vermeille\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Roussillon\",
+  \"Name\": \"Collioure\",
+  \"SubArea\": \"Côte Vermeille\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Roussillon\",
-  \"name\": \"Collioure\",
-  \"subArea\": \"Côte Vermeille\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Roussillon\",
+  \"Name\": \"Collioure\",
+  \"SubArea\": \"Côte Vermeille\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Roussillon\",
-  \"name\": \"Côtes-du-roussillon\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Roussillon\",
+  \"Name\": \"Côtes-du-roussillon\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Roussillon\",
-  \"name\": \"Côtes-du-roussillon\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Roussillon\",
+  \"Name\": \"Côtes-du-roussillon\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Roussillon\",
-  \"name\": \"Côtes-du-roussillon\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Roussillon\",
+  \"Name\": \"Côtes-du-roussillon\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Roussillon\",
-  \"name\": \"Côtes-du-roussillon villages\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Roussillon\",
+  \"Name\": \"Côtes-du-roussillon villages\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Roussillon\",
-  \"name\": \"Maury\",
-  \"subArea\": \"Fenouillèdes\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Roussillon\",
+  \"Name\": \"Maury\",
+  \"SubArea\": \"Fenouillèdes\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Roussillon\",
-  \"name\": \"Maury\",
-  \"subArea\": \"Fenouillèdes\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Roussillon\",
+  \"Name\": \"Maury\",
+  \"SubArea\": \"Fenouillèdes\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Roussillon\",
-  \"name\": \"Muscat de Rivesaltes\",
-  \"subArea\": \"Aspres et Ribéral\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Roussillon\",
+  \"Name\": \"Muscat de Rivesaltes\",
+  \"SubArea\": \"Aspres et Ribéral\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Roussillon\",
-  \"name\": \"Muscat de Rivesaltes\",
-  \"subArea\": \"Bas-Conflent\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Roussillon\",
+  \"Name\": \"Muscat de Rivesaltes\",
+  \"SubArea\": \"Bas-Conflent\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Roussillon\",
-  \"name\": \"Muscat de Rivesaltes\",
-  \"subArea\": \"Fenouillèdes\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Roussillon\",
+  \"Name\": \"Muscat de Rivesaltes\",
+  \"SubArea\": \"Fenouillèdes\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Roussillon\",
-  \"name\": \"Muscat de Rivesaltes\",
-  \"subArea\": \"Plaine du Roussillon\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Roussillon\",
+  \"Name\": \"Muscat de Rivesaltes\",
+  \"SubArea\": \"Plaine du Roussillon\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Roussillon\",
-  \"name\": \"Rivesaltes\",
-  \"subArea\": \"Aspres et Ribéral\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Roussillon\",
+  \"Name\": \"Rivesaltes\",
+  \"SubArea\": \"Aspres et Ribéral\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Roussillon\",
-  \"name\": \"Rivesaltes\",
-  \"subArea\": \"Aspres et Ribéral\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Roussillon\",
+  \"Name\": \"Rivesaltes\",
+  \"SubArea\": \"Aspres et Ribéral\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Roussillon\",
-  \"name\": \"Rivesaltes\",
-  \"subArea\": \"Bas-Conflent\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Roussillon\",
+  \"Name\": \"Rivesaltes\",
+  \"SubArea\": \"Bas-Conflent\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Roussillon\",
-  \"name\": \"Rivesaltes\",
-  \"subArea\": \"Bas-Conflent\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Roussillon\",
+  \"Name\": \"Rivesaltes\",
+  \"SubArea\": \"Bas-Conflent\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Roussillon\",
-  \"name\": \"Rivesaltes\",
-  \"subArea\": \"Fenouillèdes\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Roussillon\",
+  \"Name\": \"Rivesaltes\",
+  \"SubArea\": \"Fenouillèdes\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Roussillon\",
-  \"name\": \"Rivesaltes\",
-  \"subArea\": \"Fenouillèdes\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Roussillon\",
+  \"Name\": \"Rivesaltes\",
+  \"SubArea\": \"Fenouillèdes\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Roussillon\",
-  \"name\": \"Rivesaltes\",
-  \"subArea\": \"Plaine du Roussillon\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Roussillon\",
+  \"Name\": \"Rivesaltes\",
+  \"SubArea\": \"Plaine du Roussillon\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Roussillon\",
-  \"name\": \"Rivesaltes\",
-  \"subArea\": \"Plaine du Roussillon\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Roussillon\",
+  \"Name\": \"Rivesaltes\",
+  \"SubArea\": \"Plaine du Roussillon\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Savoie\",
-  \"name\": \"Roussette de Savoie\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Savoie\",
+  \"Name\": \"Roussette de Savoie\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Savoie\",
-  \"name\": \"Savoie\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Savoie\",
+  \"Name\": \"Savoie\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Savoie\",
-  \"name\": \"Savoie\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Savoie\",
+  \"Name\": \"Savoie\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Savoie\",
-  \"name\": \"Savoie\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Savoie\",
+  \"Name\": \"Savoie\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Savoie\",
-  \"name\": \"Vin de Savoie\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Savoie\",
+  \"Name\": \"Vin de Savoie\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Savoie\",
-  \"name\": \"Vin de Savoie\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Savoie\",
+  \"Name\": \"Vin de Savoie\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Savoie\",
-  \"name\": \"Vin de Savoie\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Savoie\",
+  \"Name\": \"Vin de Savoie\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Savoie et Bugey\",
-  \"name\": \"Seyssel\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Savoie et Bugey\",
+  \"Name\": \"Seyssel\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Béarn\",
-  \"subArea\": \"Piémont pyrénéen\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Béarn\",
+  \"SubArea\": \"Piémont pyrénéen\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Béarn\",
-  \"subArea\": \"Piémont pyrénéen\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Béarn\",
+  \"SubArea\": \"Piémont pyrénéen\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Béarn\",
-  \"subArea\": \"Piémont pyrénéen\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Béarn\",
+  \"SubArea\": \"Piémont pyrénéen\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Bergerac\",
-  \"subArea\": \"Bergeracois\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Bergerac\",
+  \"SubArea\": \"Bergeracois\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Bergerac\",
-  \"subArea\": \"Bergeracois\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Bergerac\",
+  \"SubArea\": \"Bergeracois\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Bergerac\",
-  \"subArea\": \"Bergeracois\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Bergerac\",
+  \"SubArea\": \"Bergeracois\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Buzet\",
-  \"subArea\": \"Moyenne Garonne\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Buzet\",
+  \"SubArea\": \"Moyenne Garonne\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Cahors\",
-  \"subArea\": \"Piémont du Massif central (Quercy)\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Cahors\",
+  \"SubArea\": \"Piémont du Massif central (Quercy)\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Côtes-de-bergerac\",
-  \"subArea\": \"Bergeracois\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Côtes-de-bergerac\",
+  \"SubArea\": \"Bergeracois\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Côtes-de-bergerac\",
-  \"subArea\": \"Bergeracois\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Côtes-de-bergerac\",
+  \"SubArea\": \"Bergeracois\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Côtes-de-duras\",
-  \"subArea\": \"Moyenne Garonne\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Côtes-de-duras\",
+  \"SubArea\": \"Moyenne Garonne\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Côtes-de-duras\",
-  \"subArea\": \"Moyenne Garonne\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Côtes-de-duras\",
+  \"SubArea\": \"Moyenne Garonne\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Côtes-de-duras\",
-  \"subArea\": \"Moyenne Garonne\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Côtes-de-duras\",
+  \"SubArea\": \"Moyenne Garonne\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Côtes-de-montravel\",
-  \"subArea\": \"Bergeracois\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Côtes-de-montravel\",
+  \"SubArea\": \"Bergeracois\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Côtes-du-marmandais\",
-  \"subArea\": \"Moyenne Garonne\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Côtes-du-marmandais\",
+  \"SubArea\": \"Moyenne Garonne\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Côtes-du-marmandais\",
-  \"subArea\": \"Moyenne Garonne\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Côtes-du-marmandais\",
+  \"SubArea\": \"Moyenne Garonne\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Côtes-du-marmandais\",
-  \"subArea\": \"Moyenne Garonne\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Côtes-du-marmandais\",
+  \"SubArea\": \"Moyenne Garonne\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Fronton\",
-  \"subArea\": \"Moyenne Garonne\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Fronton\",
+  \"SubArea\": \"Moyenne Garonne\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Fronton\",
-  \"subArea\": \"Moyenne Garonne\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Fronton\",
+  \"SubArea\": \"Moyenne Garonne\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Gaillac\",
-  \"subArea\": \"Piémont du Massif central\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Gaillac\",
+  \"SubArea\": \"Piémont du Massif central\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Gaillac\",
-  \"subArea\": \"Piémont du Massif central\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Gaillac\",
+  \"SubArea\": \"Piémont du Massif central\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Gaillac\",
-  \"subArea\": \"Piémont du Massif central\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Gaillac\",
+  \"SubArea\": \"Piémont du Massif central\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Gaillac-premières-côtes\",
-  \"subArea\": \"Piémont du Massif central\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Gaillac-premières-côtes\",
+  \"SubArea\": \"Piémont du Massif central\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Haut-montravel\",
-  \"subArea\": \"Bergeracois\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Haut-montravel\",
+  \"SubArea\": \"Bergeracois\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Irouléguy\",
-  \"subArea\": \"Pays basque\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Irouléguy\",
+  \"SubArea\": \"Pays basque\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Irouléguy\",
-  \"subArea\": \"Pays basque\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Irouléguy\",
+  \"SubArea\": \"Pays basque\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Irouléguy\",
-  \"subArea\": \"Pays basque\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Irouléguy\",
+  \"SubArea\": \"Pays basque\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Jurançon\",
-  \"subArea\": \"Piémont pyrénéen\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Jurançon\",
+  \"SubArea\": \"Piémont pyrénéen\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Madiran\",
-  \"subArea\": \"Piémont pyrénéen (Armagnac)\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Madiran\",
+  \"SubArea\": \"Piémont pyrénéen (Armagnac)\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Marcillac\",
-  \"subArea\": \"Massif central méridional\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Marcillac\",
+  \"SubArea\": \"Massif central méridional\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Marcillac\",
-  \"subArea\": \"Massif central méridional\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Marcillac\",
+  \"SubArea\": \"Massif central méridional\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Monbazillac\",
-  \"subArea\": \"Bergeracois\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Monbazillac\",
+  \"SubArea\": \"Bergeracois\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Montravel\",
-  \"subArea\": \"Bergeracois\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Montravel\",
+  \"SubArea\": \"Bergeracois\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Montravel\",
-  \"subArea\": \"Bergeracois\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Montravel\",
+  \"SubArea\": \"Bergeracois\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Pacherenc-du-vic-bilh\",
-  \"subArea\": \"Piémont pyrénéen (Armagnac)\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Pacherenc-du-vic-bilh\",
+  \"SubArea\": \"Piémont pyrénéen (Armagnac)\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Pacherenc-du-vic-bilh\",
-  \"subArea\": \"Piémont pyrénéen (Armagnac)\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Pacherenc-du-vic-bilh\",
+  \"SubArea\": \"Piémont pyrénéen (Armagnac)\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Pacherenc-du-vic-bilh\",
-  \"subArea\": \"Piémont pyrénéen (Armagnac)\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Pacherenc-du-vic-bilh\",
+  \"SubArea\": \"Piémont pyrénéen (Armagnac)\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Pécharmant\",
-  \"subArea\": \"Bergeracois\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Pécharmant\",
+  \"SubArea\": \"Bergeracois\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Rosette\",
-  \"subArea\": \"Bergeracois\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Rosette\",
+  \"SubArea\": \"Bergeracois\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Sud-Ouest\",
-  \"name\": \"Saussignac\",
-  \"subArea\": \"Bergeracois\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Sud-Ouest\",
+  \"Name\": \"Saussignac\",
+  \"SubArea\": \"Bergeracois\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Anjou\",
-  \"subArea\": \"Anjou\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Anjou\",
+  \"SubArea\": \"Anjou\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Anjou\",
-  \"subArea\": \"Anjou\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Anjou\",
+  \"SubArea\": \"Anjou\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Anjou\",
-  \"subArea\": \"Anjou\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Anjou\",
+  \"SubArea\": \"Anjou\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Anjou villages\",
-  \"subArea\": \"Anjou\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Anjou villages\",
+  \"SubArea\": \"Anjou\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Anjou villages brissac\",
-  \"subArea\": \"Anjou\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Anjou villages brissac\",
+  \"SubArea\": \"Anjou\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Anjou-coteaux-de-la-loire\",
-  \"subArea\": \"Anjou\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Anjou-coteaux-de-la-loire\",
+  \"SubArea\": \"Anjou\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Bonnezeaux\",
-  \"subArea\": \"Anjou\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Bonnezeaux\",
+  \"SubArea\": \"Anjou\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Boudes\",
-  \"subArea\": \"Côtes d'auvergne\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Boudes\",
+  \"SubArea\": \"Côtes d'auvergne\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Bourgueil\",
-  \"subArea\": \"Touraine\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Bourgueil\",
+  \"SubArea\": \"Touraine\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Bourgueil\",
-  \"subArea\": \"Touraine\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Bourgueil\",
+  \"SubArea\": \"Touraine\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Cabernet d'Anjou\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Cabernet d'Anjou\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Cabernet de Saumur\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Cabernet de Saumur\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Chanturgue\",
-  \"subArea\": \"Côtes d'auvergne\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Chanturgue\",
+  \"SubArea\": \"Côtes d'auvergne\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Châteaugay\",
-  \"subArea\": \"Côtes d'auvergne\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Châteaugay\",
+  \"SubArea\": \"Côtes d'auvergne\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Châteaugay\",
-  \"subArea\": \"Côtes d'auvergne\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Châteaugay\",
+  \"SubArea\": \"Côtes d'auvergne\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Châteaumeillant\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Châteaumeillant\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Cheverny\",
-  \"subArea\": \"Touraine\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Cheverny\",
+  \"SubArea\": \"Touraine\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Cheverny\",
-  \"subArea\": \"Touraine\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Cheverny\",
+  \"SubArea\": \"Touraine\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Cheverny\",
-  \"subArea\": \"Touraine\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Cheverny\",
+  \"SubArea\": \"Touraine\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Chinon\",
-  \"subArea\": \"Touraine\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Chinon\",
+  \"SubArea\": \"Touraine\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Chinon\",
-  \"subArea\": \"Touraine\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Chinon\",
+  \"SubArea\": \"Touraine\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Chinon\",
-  \"subArea\": \"Touraine\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Chinon\",
+  \"SubArea\": \"Touraine\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Corent\",
-  \"subArea\": \"Côtes d'auvergne\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Corent\",
+  \"SubArea\": \"Côtes d'auvergne\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Côte-roannaise\",
-  \"subArea\": \"Roannais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Côte-roannaise\",
+  \"SubArea\": \"Roannais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Côte-roannaise\",
-  \"subArea\": \"Roannais\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Côte-roannaise\",
+  \"SubArea\": \"Roannais\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Coteaux-de-l'aubance\",
-  \"subArea\": \"Anjou\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Coteaux-de-l'aubance\",
+  \"SubArea\": \"Anjou\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Coteaux-de-saumur\",
-  \"subArea\": \"Anjou (Saumurois)\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Coteaux-de-saumur\",
+  \"SubArea\": \"Anjou (Saumurois)\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Coteaux-du-giennois\",
-  \"subArea\": \"Centre\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Coteaux-du-giennois\",
+  \"SubArea\": \"Centre\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Coteaux-du-giennois\",
-  \"subArea\": \"Centre\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Coteaux-du-giennois\",
+  \"SubArea\": \"Centre\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Coteaux-du-giennois\",
-  \"subArea\": \"Centre\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Coteaux-du-giennois\",
+  \"SubArea\": \"Centre\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Coteaux-du-layon\",
-  \"subArea\": \"Anjou\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Coteaux-du-layon\",
+  \"SubArea\": \"Anjou\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Coteaux-du-loir\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Coteaux-du-loir\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Coteaux-du-loir\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Coteaux-du-loir\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Coteaux-du-loir\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Coteaux-du-loir\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Coteaux-du-vendômois\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Coteaux-du-vendômois\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Coteaux-du-vendômois\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Coteaux-du-vendômois\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Côtes-du-forez\",
-  \"subArea\": \"Forez\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Côtes-du-forez\",
+  \"SubArea\": \"Forez\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Côtes-du-forez\",
-  \"subArea\": \"Forez\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Côtes-du-forez\",
+  \"SubArea\": \"Forez\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Cour-cheverny\",
-  \"subArea\": \"Touraine\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Cour-cheverny\",
+  \"SubArea\": \"Touraine\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Crémant de Loire\",
-  \"subArea\": \"Anjou\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Crémant de Loire\",
+  \"SubArea\": \"Anjou\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Crémant de Loire\",
-  \"subArea\": \"Anjou\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Crémant de Loire\",
+  \"SubArea\": \"Anjou\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Crémant de Loire\",
-  \"subArea\": \"Touraine\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Crémant de Loire\",
+  \"SubArea\": \"Touraine\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Crémant de Loire\",
-  \"subArea\": \"Touraine\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Crémant de Loire\",
+  \"SubArea\": \"Touraine\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Fiefs-vendéens\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Fiefs-vendéens\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Fiefs-vendéens\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Fiefs-vendéens\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Fiefs-vendéens\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Fiefs-vendéens\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Haut-poitou\",
-  \"subArea\": \"Poitou\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Haut-poitou\",
+  \"SubArea\": \"Poitou\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Haut-poitou\",
-  \"subArea\": \"Poitou\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Haut-poitou\",
+  \"SubArea\": \"Poitou\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Haut-poitou\",
-  \"subArea\": \"Poitou\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Haut-poitou\",
+  \"SubArea\": \"Poitou\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Jasnières\",
-  \"subArea\": \"Touraine\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Jasnières\",
+  \"SubArea\": \"Touraine\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Madargue\",
-  \"subArea\": \"Côtes d'auvergne\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Madargue\",
+  \"SubArea\": \"Côtes d'auvergne\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Madargue\",
-  \"subArea\": \"Côtes d'auvergne\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Madargue\",
+  \"SubArea\": \"Côtes d'auvergne\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Madargue\",
-  \"subArea\": \"Côtes d'auvergne\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Madargue\",
+  \"SubArea\": \"Côtes d'auvergne\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Menetou-salon\",
-  \"subArea\": \"Berry\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Menetou-salon\",
+  \"SubArea\": \"Berry\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Menetou-salon\",
-  \"subArea\": \"Berry\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Menetou-salon\",
+  \"SubArea\": \"Berry\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Menetou-salon\",
-  \"subArea\": \"Berry\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Menetou-salon\",
+  \"SubArea\": \"Berry\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Montlouis-sur-loire\",
-  \"subArea\": \"Touraine\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Montlouis-sur-loire\",
+  \"SubArea\": \"Touraine\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Muscadet\",
-  \"subArea\": \"Vignoble nantais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Muscadet\",
+  \"SubArea\": \"Vignoble nantais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Muscadet-coteaux-de-la-loire\",
-  \"subArea\": \"Vignoble nantais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Muscadet-coteaux-de-la-loire\",
+  \"SubArea\": \"Vignoble nantais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Muscadet-côtes-de-grandlieu\",
-  \"subArea\": \"Vignoble nantais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Muscadet-côtes-de-grandlieu\",
+  \"SubArea\": \"Vignoble nantais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Muscadet-sèvre-et-maine\",
-  \"subArea\": \"Vignoble nantais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Muscadet-sèvre-et-maine\",
+  \"SubArea\": \"Vignoble nantais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Orléans\",
-  \"subArea\": \"Orléanais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Orléans\",
+  \"SubArea\": \"Orléanais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Orléans\",
-  \"subArea\": \"Orléanais\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Orléans\",
+  \"SubArea\": \"Orléanais\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Orléans\",
-  \"subArea\": \"Orléanais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Orléans\",
+  \"SubArea\": \"Orléanais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Orléans-cléry\",
-  \"subArea\": \"Orléanais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Orléans-cléry\",
+  \"SubArea\": \"Orléanais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Pouilly-fumé\",
-  \"subArea\": \"Nivernais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Pouilly-fumé\",
+  \"SubArea\": \"Nivernais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Blanc-fumé de Pouilly\",
-  \"subArea\": \"Nivernais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Blanc-fumé de Pouilly\",
+  \"SubArea\": \"Nivernais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Pouilly-sur-loire\",
-  \"subArea\": \"Nivernais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Pouilly-sur-loire\",
+  \"SubArea\": \"Nivernais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Quarts-de-chaume\",
-  \"subArea\": \"Anjou\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Quarts-de-chaume\",
+  \"SubArea\": \"Anjou\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Quincy\",
-  \"subArea\": \"Berry\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Quincy\",
+  \"SubArea\": \"Berry\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Reuilly\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Reuilly\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Reuilly\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Reuilly\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Reuilly\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Reuilly\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Rosé d'Anjou\",
-  \"subArea\": \"Anjou\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Rosé d'Anjou\",
+  \"SubArea\": \"Anjou\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Rosé de Loire\",
-  \"subArea\": \"Anjou\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Rosé de Loire\",
+  \"SubArea\": \"Anjou\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Rosé de Loire\",
-  \"subArea\": \"Touraine\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Rosé de Loire\",
+  \"SubArea\": \"Touraine\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Saint-nicolas-de-bourgueil\",
-  \"subArea\": \"Touraine\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Saint-nicolas-de-bourgueil\",
+  \"SubArea\": \"Touraine\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Saint-nicolas-de-bourgueil\",
-  \"subArea\": \"Touraine\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Saint-nicolas-de-bourgueil\",
+  \"SubArea\": \"Touraine\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Saint-pourçain\",
-  \"subArea\": \"Bourbonnais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Saint-pourçain\",
+  \"SubArea\": \"Bourbonnais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Saint-pourçain\",
-  \"subArea\": \"Bourbonnais\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Saint-pourçain\",
+  \"SubArea\": \"Bourbonnais\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Saint-pourçain\",
-  \"subArea\": \"Bourbonnais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Saint-pourçain\",
+  \"SubArea\": \"Bourbonnais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Sancerre\",
-  \"subArea\": \"Berry\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Sancerre\",
+  \"SubArea\": \"Berry\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Sancerre\",
-  \"subArea\": \"Berry\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Sancerre\",
+  \"SubArea\": \"Berry\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Sancerre\",
-  \"subArea\": \"Berry\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Sancerre\",
+  \"SubArea\": \"Berry\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Saumur\",
-  \"subArea\": \"Anjou\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Saumur\",
+  \"SubArea\": \"Anjou\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Saumur-champigny\",
-  \"subArea\": \"Anjou\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Saumur-champigny\",
+  \"SubArea\": \"Anjou\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Savennières\",
-  \"subArea\": \"Anjou\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Savennières\",
+  \"SubArea\": \"Anjou\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Touraine\",
-  \"subArea\": \"Touraine\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Touraine\",
+  \"SubArea\": \"Touraine\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Touraine\",
-  \"subArea\": \"Touraine\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Touraine\",
+  \"SubArea\": \"Touraine\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Touraine\",
-  \"subArea\": \"Touraine\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Touraine\",
+  \"SubArea\": \"Touraine\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Touraine-noble-joué\",
-  \"subArea\": \"Touraine\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Touraine-noble-joué\",
+  \"SubArea\": \"Touraine\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Valençay\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Valençay\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Valençay\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Valençay\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Valençay\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Valençay\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée de la Loire\",
-  \"name\": \"Vouvray\",
-  \"subArea\": \"Touraine\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée de la Loire\",
+  \"Name\": \"Vouvray\",
+  \"SubArea\": \"Touraine\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Beaumes-de-venise\",
-  \"subArea\": \"Rhône méridional\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Beaumes-de-venise\",
+  \"SubArea\": \"Rhône méridional\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Château-grillet\",
-  \"subArea\": \"Rhône septentrional\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Château-grillet\",
+  \"SubArea\": \"Rhône septentrional\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Châteauneuf-du-pape\",
-  \"subArea\": \"Rhône méridional\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Châteauneuf-du-pape\",
+  \"SubArea\": \"Rhône méridional\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Châtillon-en-diois\",
-  \"subArea\": \"Diois (Vallée de la Drôme)\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Châtillon-en-diois\",
+  \"SubArea\": \"Diois (Vallée de la Drôme)\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Châtillon-en-diois\",
-  \"subArea\": \"Diois (Vallée de la Drôme)\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Châtillon-en-diois\",
+  \"SubArea\": \"Diois (Vallée de la Drôme)\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Châtillon-en-diois\",
-  \"subArea\": \"Diois (Vallée de la Drôme)\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Châtillon-en-diois\",
+  \"SubArea\": \"Diois (Vallée de la Drôme)\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Clairette de Bellegarde\",
-  \"subArea\": \"Gard\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Clairette de Bellegarde\",
+  \"SubArea\": \"Gard\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Clairette de Die\",
-  \"subArea\": \"Diois (Vallée de la Drôme)\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Clairette de Die\",
+  \"SubArea\": \"Diois (Vallée de la Drôme)\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Condrieu\",
-  \"subArea\": \"Rhône septentrional\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Condrieu\",
+  \"SubArea\": \"Rhône septentrional\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Cornas\",
-  \"subArea\": \"Rhône septentrional\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Cornas\",
+  \"SubArea\": \"Rhône septentrional\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Costières-de-nîmes\",
-  \"subArea\": \"Gard\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Costières-de-nîmes\",
+  \"SubArea\": \"Gard\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Costières-de-nîmes\",
-  \"subArea\": \"Gard\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Costières-de-nîmes\",
+  \"SubArea\": \"Gard\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Costières-de-nîmes\",
-  \"subArea\": \"Gard\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Costières-de-nîmes\",
+  \"SubArea\": \"Gard\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Côte-rôtie\",
-  \"subArea\": \"Rhône septentrional\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Côte-rôtie\",
+  \"SubArea\": \"Rhône septentrional\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Coteaux-de-die\",
-  \"subArea\": \"Diois (Vallée de la Drôme)\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Coteaux-de-die\",
+  \"SubArea\": \"Diois (Vallée de la Drôme)\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Côtes-du-rhône\",
-  \"subArea\": \"Rhône méridional\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Côtes-du-rhône\",
+  \"SubArea\": \"Rhône méridional\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Côtes-du-rhône\",
-  \"subArea\": \"Rhône méridional\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Côtes-du-rhône\",
+  \"SubArea\": \"Rhône méridional\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Côtes-du-rhône\",
-  \"subArea\": \"Rhône méridional\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Côtes-du-rhône\",
+  \"SubArea\": \"Rhône méridional\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Côtes-du-rhône\",
-  \"subArea\": \"Rhône septentrional\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Côtes-du-rhône\",
+  \"SubArea\": \"Rhône septentrional\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Côtes-du-rhône\",
-  \"subArea\": \"Rhône septentrional\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Côtes-du-rhône\",
+  \"SubArea\": \"Rhône septentrional\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Côtes-du-rhône\",
-  \"subArea\": \"Rhône septentrional\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Côtes-du-rhône\",
+  \"SubArea\": \"Rhône septentrional\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Côtes-du-rhône villages\",
-  \"subArea\": \"Rhône méridional\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Côtes-du-rhône villages\",
+  \"SubArea\": \"Rhône méridional\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Côtes-du-rhône villages\",
-  \"subArea\": \"Rhône méridional\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Côtes-du-rhône villages\",
+  \"SubArea\": \"Rhône méridional\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Côtes-du-rhône villages\",
-  \"subArea\": \"Rhône méridional\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Côtes-du-rhône villages\",
+  \"SubArea\": \"Rhône méridional\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Côtes-du-vivarais\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Côtes-du-vivarais\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Côtes-du-vivarais\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Côtes-du-vivarais\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Côtes-du-vivarais\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Côtes-du-vivarais\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Crémant de Die\",
-  \"subArea\": \"Diois (Vallée de la Drôme)\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Crémant de Die\",
+  \"SubArea\": \"Diois (Vallée de la Drôme)\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Crozes-hermitage\",
-  \"subArea\": \"Rhône septentrional\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Crozes-hermitage\",
+  \"SubArea\": \"Rhône septentrional\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Crozes-ermitage\",
-  \"subArea\": \"Rhône septentrional\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Crozes-ermitage\",
+  \"SubArea\": \"Rhône septentrional\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Crozes-hermitage\",
-  \"subArea\": \"Rhône septentrional\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Crozes-hermitage\",
+  \"SubArea\": \"Rhône septentrional\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Crozes-ermitage\",
-  \"subArea\": \"Rhône septentrional\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Crozes-ermitage\",
+  \"SubArea\": \"Rhône septentrional\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Gigondas\",
-  \"subArea\": \"Rhône méridional\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Gigondas\",
+  \"SubArea\": \"Rhône méridional\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Gigondas\",
-  \"subArea\": \"Rhône méridional\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Gigondas\",
+  \"SubArea\": \"Rhône méridional\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Grignan-les-adhémar\",
-  \"subArea\": \"Rhône méridonal\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Grignan-les-adhémar\",
+  \"SubArea\": \"Rhône méridonal\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Grignan-les-adhémar\",
-  \"subArea\": \"Rhône méridonal\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Grignan-les-adhémar\",
+  \"SubArea\": \"Rhône méridonal\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Grignan-les-adhémar\",
-  \"subArea\": \"Rhône méridonal\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Grignan-les-adhémar\",
+  \"SubArea\": \"Rhône méridonal\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Hermitage ou ermitage\",
-  \"subArea\": \"Rhône septentrional\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Hermitage ou ermitage\",
+  \"SubArea\": \"Rhône septentrional\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Hermitage ou ermitage\",
-  \"subArea\": \"Rhône septentrional\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Hermitage ou ermitage\",
+  \"SubArea\": \"Rhône septentrional\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Lirac\",
-  \"subArea\": \"Rhône méridional\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Lirac\",
+  \"SubArea\": \"Rhône méridional\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Lirac\",
-  \"subArea\": \"Rhône méridional\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Lirac\",
+  \"SubArea\": \"Rhône méridional\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Lirac\",
-  \"subArea\": \"Rhône méridional\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Lirac\",
+  \"SubArea\": \"Rhône méridional\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Luberon\",
-  \"subArea\": \"Luberon\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Luberon\",
+  \"SubArea\": \"Luberon\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Luberon\",
-  \"subArea\": \"Luberon\",
-  \"color\": \"Pink\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Luberon\",
+  \"SubArea\": \"Luberon\",
+  \"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Luberon\",
-  \"subArea\": \"Luberon\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Luberon\",
+  \"SubArea\": \"Luberon\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Muscat de Beaumes-de-Venise\",
-  \"subArea\": \"Rhône méridional\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Muscat de Beaumes-de-Venise\",
+  \"SubArea\": \"Rhône méridional\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Muscat de Beaumes-de-Venise\",
-  \"subArea\": \"Rhône méridional\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Muscat de Beaumes-de-Venise\",
+  \"SubArea\": \"Rhône méridional\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Rasteau\",
-  \"subArea\": \"Rhône méridional\",
-  \"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Rasteau\",
+  \"SubArea\": \"Rhône méridional\",
+  \"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-\"name\": \"Saint-joseph\",
-\"subArea\": \"Rhône septentrional\",
-\"color\": \"Red\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+\"Name\": \"Saint-joseph\",
+\"SubArea\": \"Rhône septentrional\",
+\"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Saint-joseph\",
-  \"subArea\": \"Rhône septentrional\",
-  \"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Saint-joseph\",
+  \"SubArea\": \"Rhône septentrional\",
+  \"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-  \"country\": \"France\",
-  \"area\": \"Vallée du Rhône\",
-  \"name\": \"Saint-péray\",
-\"color\": \"White\"
+  \"Country\": \"France\",
+  \"Area\": \"Vallée du Rhône\",
+  \"Name\": \"Saint-péray\",
+\"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-\"country\": \"France\",
-\"area\": \"Vallée du Rhône\",
-\"name\": \"Tavel\",
-\"subArea\": \"Gard\",
-\"color\": \"Pink\"
+\"Country\": \"France\",
+\"Area\": \"Vallée du Rhône\",
+\"Name\": \"Tavel\",
+\"SubArea\": \"Gard\",
+\"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-\"country\": \"France\",
-\"area\": \"Vallée du Rhône\",
-\"name\": \"Vacqueyras\",
-\"subArea\": \"Rhône méridional\",
-\"color\": \"Red\"
+\"Country\": \"France\",
+\"Area\": \"Vallée du Rhône\",
+\"Name\": \"Vacqueyras\",
+\"SubArea\": \"Rhône méridional\",
+\"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-\"country\": \"France\",
-\"area\": \"Vallée du Rhône\",
-\"name\": \"Vacqueyras\",
-\"subArea\": \"Rhône méridional\",
-\"color\": \"Pink\"
+\"Country\": \"France\",
+\"Area\": \"Vallée du Rhône\",
+\"Name\": \"Vacqueyras\",
+\"SubArea\": \"Rhône méridional\",
+\"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-\"country\": \"France\",
-\"area\": \"Vallée du Rhône\",
-\"name\": \"Vacqueyras\",
-\"subArea\": \"Rhône méridional\",
-\"color\": \"White\"
+\"Country\": \"France\",
+\"Area\": \"Vallée du Rhône\",
+\"Name\": \"Vacqueyras\",
+\"SubArea\": \"Rhône méridional\",
+\"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-\"country\": \"France\",
-\"area\": \"Vallée du Rhône\",
-\"name\": \"Ventoux\",
-\"color\": \"Red\"
+\"Country\": \"France\",
+\"Area\": \"Vallée du Rhône\",
+\"Name\": \"Ventoux\",
+\"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-\"country\": \"France\",
-\"area\": \"Vallée du Rhône\",
-\"name\": \"Ventoux\",
-\"color\": \"Pink\"
+\"Country\": \"France\",
+\"Area\": \"Vallée du Rhône\",
+\"Name\": \"Ventoux\",
+\"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-\"country\": \"France\",
-\"area\": \"Vallée du Rhône\",
-\"name\": \"Ventoux\",
-\"color\": \"White\"
+\"Country\": \"France\",
+\"Area\": \"Vallée du Rhône\",
+\"Name\": \"Ventoux\",
+\"Color\": \"White\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-\"country\": \"France\",
-\"area\": \"Vallée du Rhône\",
-\"name\": \"Vinsobres\",
-\"subArea\": \"Rhône méridional\",
-\"color\": \"Red\"
+\"Country\": \"France\",
+\"Area\": \"Vallée du Rhône\",
+\"Name\": \"Vinsobres\",
+\"SubArea\": \"Rhône méridional\",
+\"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-\"country\": \"France\",
-\"area\": \"Vallée du Rhône\",
-\"name\": \"Duché-d'Uzès\",
-\"color\": \"Red\"
+\"Country\": \"France\",
+\"Area\": \"Vallée du Rhône\",
+\"Name\": \"Duché-d'Uzès\",
+\"Color\": \"Red\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-\"country\": \"France\",
-\"area\": \"Vallée du Rhône\",
-\"name\": \"Duché-d'Uzès\",
-\"color\": \"Pink\"
+\"Country\": \"France\",
+\"Area\": \"Vallée du Rhône\",
+\"Name\": \"Duché-d'Uzès\",
+\"Color\": \"Pink\"
 }"
 
 curl -X POST "https://wineapi.synapteek.fr/wines" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{
-\"country\": \"France\",
-\"area\": \"Vallée du Rhône\",
-\"name\": \"Duché-d'Uzès\",
-\"color\": \"White\"
+\"Country\": \"France\",
+\"Area\": \"Vallée du Rhône\",
+\"Name\": \"Duché-d'Uzès\",
+\"Color\": \"White\"
 }"
